@@ -1,0 +1,21 @@
+.first {
+  display: flex;
+  margin: 5px;
+  border: solid 6px pink;
+}
+
+.second {
+  margin: 5px;
+  display: flex;
+  border: solid 2px lightblue;
+  border-radius: 8px;
+}
+
+.second {
+  flex: 1;
+  max-width: 25%;
+}
+
+img {
+  width: 100%;
+}
